@@ -16,7 +16,7 @@ Steps:
 
 
 At top of this index.php, use this
-```
+```php
 <?php
 $title = "BigSite.com .: HOME :.";
 $showad = true;
