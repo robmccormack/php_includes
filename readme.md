@@ -69,6 +69,20 @@ include 'includes/header.php';
 #Simple PHP code examples
 
 
+
+## echo
+```php
+
+<?php
+  echo "Hello World";
+}
+
+?>
+
+
+```
+
+
 ## Conditional
 ```php
 
