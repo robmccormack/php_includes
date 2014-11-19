@@ -1,12 +1,5 @@
 ![](http://upload.wikimedia.org/wikipedia/en/1/1d/Confederation_college_logo.jpg)
 
-<!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
-	- [Mr. M.'s](#mr-ms)
-- [IM 315 Advanced PHP Includes](#im-315-advanced-php-includes)
-- [Simple PHP code examples](#simple-php-code-examples)
-	- [Conditional](#conditional)
-	- [Select](#select)
-<!-- /TOC -->
 
 ---
 ##Mr. M.'s
