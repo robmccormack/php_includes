@@ -50,3 +50,20 @@ PROJECT
 BLOG
 
 CONTACT
+
+
+---
+#Simple PHP code examples
+
+```php
+
+<?php
+
+if ($Name == "Bob") {
+  echo "Have a good day Bob!";
+}
+
+?>
+
+
+```
