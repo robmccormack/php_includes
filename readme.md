@@ -5,7 +5,10 @@
 ##Mr. M.'s
 # IM 315 Advanced PHP Includes
 
+---
+![](https://raw.githubusercontent.com/robmccormack/php_includes/master/ScreenShot.png)
 
+---
 Steps:
 
 1. Duplicate this page as index.php  (you  have to use .php, since we'll be using PHP includes)
