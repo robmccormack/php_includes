@@ -18,12 +18,17 @@ Steps:
 
 
 At top of this index.php, use this
+
+and write out the variable $myTitle in <title> tag,
+AND
+on the main content part of the page.
+
+
 ```php
 <?php
-$title = "BigSite.com .: HOME :.";
-$showad = true;
-include 'includes/header.php';
+$myTitle = "HOME";
 ?>
+
 ```
 
 
@@ -51,6 +56,14 @@ BLOG
 
 CONTACT
 
+
+```php
+<?php
+$title = "HOME";
+$showad = true;
+include 'includes/header.php';
+?>
+```
 
 ---
 #Simple PHP code examples
