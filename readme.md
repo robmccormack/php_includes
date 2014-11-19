@@ -1,10 +1,9 @@
 ![](http://upload.wikimedia.org/wikipedia/en/1/1d/Confederation_college_logo.jpg)
 
 
-
 ---
 ##Mr. M.'s
-# IM 315 Advanced Includes
+# IM 315 Advanced PHP Includes
 
 
 Steps:
