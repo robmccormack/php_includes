@@ -9,10 +9,10 @@
 
 Steps:
 
-* Duplicate this page as index.php  (you  have to use .php, since we'll be using PHP includes)
-* Create a folder called "/includes"  to hold the includes
-* Create a file called /includes/header.php with the header of this page
-* repeat above, for footer.php
+1. Duplicate this page as index.php  (you  have to use .php, since we'll be using PHP includes)
+2. Create a folder called "/includes"  to hold the includes
+3. Create a file called /includes/header.php with the header of this page
+4. repeat above, for footer.php
 
 
 At top of this index.php, use this
@@ -25,7 +25,7 @@ include 'includes/header.php';
 ```
 
 
-* at bottom of this page use this
+5.  at bottom of this page use this
 <?php include 'includes/footer.php'; ?>
 
 
